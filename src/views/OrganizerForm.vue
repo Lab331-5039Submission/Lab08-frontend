@@ -18,7 +18,6 @@
       />
       <button type="submit">Submit</button>
     </form>
-    <pre>{{ organizer }}</pre>
   </div>
 </template>
 <script>

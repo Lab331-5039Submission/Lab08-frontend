@@ -38,7 +38,6 @@
       />
       <button type="submit">Submit</button>
     </form>
-    <pre>{{ event }}</pre>
   </div>
 </template>
 <script>
